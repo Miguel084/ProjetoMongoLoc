@@ -1,0 +1,149 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 70px;
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  padding: 50px 20px;
+}
+
+.card {
+  background: rgb(51, 180, 196);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+  color: white;
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(64, 64, 64);
+}
+
+#creation-section {
+  height: 400px;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+}
+
+#lembreteList {
+  height: auto;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-shadow: 1px 1px 2px rgb(64, 64, 64);
+  font-size: 1.8rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  font-weight: 600;
+  text-shadow: 1px 1px 2px rgb(64, 64, 64);
+}
+
+input {
+  background: white;
+  color: rgb(64, 64, 64);
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+}
+
+input[type=date] {
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+}
+
+input:focus {
+  outline: none;
+  border-color: rgb(51, 180, 196);
+}
+
+button {
+  margin-top: 1rem;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: large;
+  border-radius: 50px;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+  color: rgb(51, 180, 196);
+  text-shadow: 1px 1px 2px white;
+  background: rgba(255, 255, 255, 0.7);
+  transition: 0.3s;
+  border: none;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+  font-weight: bold;
+}
+
+button:hover {
+  text-shadow: 1px 1px 2px rgb(51, 180, 196);
+  border: 1px solid rgb(64, 64, 64);
+  font-weight: 1000;
+  transition: 0.3;
+  color: rgb(51, 180, 196);
+}
+
+.date-group {
+  background: rgba(255, 255, 255, 0.1);
+  color: rgb(64, 64, 64);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+}
+
+.date-group h2 {
+  font-size: 1.3rem;
+  text-align: center;
+  font-weight: 700;
+  color: white;
+  text-shadow: 1px 1px 2px rgb(64, 64, 64);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  box-shadow: 0px 4px 8px rgb(64, 64, 64);
+}
+
+.lembrete {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid rgb(51, 180, 196);
+  border-radius: 5px;
+  margin-top: 10px;
+  background: white;
+  color: rgb(64, 64, 64);
+}
+
+.delete {
+  cursor: pointer;
+  color: red;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=styles.css.map */

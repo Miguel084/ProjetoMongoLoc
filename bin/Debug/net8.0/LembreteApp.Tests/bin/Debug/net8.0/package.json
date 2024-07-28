@@ -1,0 +1,10 @@
+{
+  "name": "lembrete-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build-css": "sass --watch wwwroot/css/styles.scss:wwwroot/css/styles.css"
+  },
+  "dependencies": {
+    "sass": "^1.77.8"
+  }
+}

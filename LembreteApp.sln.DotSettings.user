@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1b85934b_002Da2b4_002D4393_002Db1d3_002D82558d2a5811/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=37918fa6_002D9d2c_002D4a20_002Dbeb1_002D6d159e509c4d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetLembretes_DeveRetornarListaDeLembretes #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::77A7E5CE-E5BD-43D6-9345-83D9FEB02B5A::net8.0::LembreteApp.Tests.LembretesControllerTests.GetLembretes_DeveRetornarListaDeLembretes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b64c5db_002D5b23_002D41eb_002D8f79_002D6fad9d4cb991/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetLembretes_DeveRetornarListaDeLembretes #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::77A7E5CE-E5BD-43D6-9345-83D9FEB02B5A::net8.0::LembreteApp.Tests.LembretesControllerTests.GetLembretes_DeveRetornarListaDeLembretes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=47e5c89f_002D2df8_002D4e8f_002Da6af_002Dc4e8d9abbb7b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostLembrete_DeveRetornarCreatedAtRouteQuandoLembreteValido" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::77A7E5CE-E5BD-43D6-9345-83D9FEB02B5A::net8.0::LembreteApp.Tests.LembretesControllerTests.PostLembrete_DeveRetornarCreatedAtRouteQuandoLembreteValido&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=62a0acaa_002D42c2_002D4eed_002D8337_002D4d1382d38c8d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8345e132_002D9361_002D4c5f_002D987a_002D7c96667aba8a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PostLembrete_DeveRetornarBadRequestQuandoNomeNaoPreenchido" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::77A7E5CE-E5BD-43D6-9345-83D9FEB02B5A::net8.0::LembreteApp.Tests.LembretesControllerTests.PostLembrete_DeveRetornarBadRequestQuandoNomeNaoPreenchido&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a669d741_002D3e62_002D4986_002Da3bb_002D0208fd6c422e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f26f0900_002D9846_002D4d38_002Da38c_002D7416cacc5d89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetLembretes_DeveRetornarListaDeLembretes" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::77A7E5CE-E5BD-43D6-9345-83D9FEB02B5A::net8.0::LembreteApp.Tests.LembretesControllerTests.GetLembretes_DeveRetornarListaDeLembretes&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
