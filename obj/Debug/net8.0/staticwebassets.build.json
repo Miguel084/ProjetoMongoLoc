@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3y5kqtKZ3q4726KjchSfijKAoawRmqYkHH2oFgOqvag=",
+  "Hash": "lXoSjtJ024H8Y1TwGCDkghAiQHDi1duz/NygwbXcXN0=",
   "Source": "LembreteApp",
   "BasePath": "_content/LembreteApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LembreteApp\\wwwroot",
       "Source": "LembreteApp",
-      "ContentRoot": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\",
       "BasePath": "_content/LembreteApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\css\\styles.css",
       "SourceId": "LembreteApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\",
       "BasePath": "_content/LembreteApp",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\css\\styles.css.map",
+      "Identity": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\css\\styles.css.map",
       "SourceId": "LembreteApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\",
       "BasePath": "_content/LembreteApp",
       "RelativePath": "css/styles.css.map",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css.map"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\css\\styles.module.scss",
+      "Identity": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\css\\styles.module.scss",
       "SourceId": "LembreteApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\",
       "BasePath": "_content/LembreteApp",
       "RelativePath": "css/styles.module.scss",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.module.scss"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\css\\styles.scss",
+      "Identity": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\css\\styles.scss",
       "SourceId": "LembreteApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\",
       "BasePath": "_content/LembreteApp",
       "RelativePath": "css/styles.scss",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.scss"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\index.html",
       "SourceId": "LembreteApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\",
       "BasePath": "_content/LembreteApp",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\js\\app.js",
+      "Identity": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\js\\app.js",
       "SourceId": "LembreteApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Bruno\\Downloads\\ProjetoMongoAtlas-main\\ProjetoMongoAtlas-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alegr\\RiderProjects\\ProjetoMongoLoc\\wwwroot\\",
       "BasePath": "_content/LembreteApp",
       "RelativePath": "js/app.js",
       "AssetKind": "All",

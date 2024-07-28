@@ -2,9 +2,14 @@
   "name": "lembrete-app",
   "version": "1.0.0",
   "scripts": {
-    "build-css": "sass --watch wwwroot/css/styles.scss:wwwroot/css/styles.css"
+    "build-css": "sass --watch wwwroot/css/styles.scss:wwwroot/css/styles.css",
+    "cypress:test": "cd CypressE2ETests && cypress run",
+    "cypress:open": "cd CypressE2ETests && cypress open"
   },
   "dependencies": {
     "sass": "^1.77.8"
+  },
+  "devDependencies": {
+    "cypress": "^13.13.1"
   }
 }
